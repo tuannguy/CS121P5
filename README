@@ -1,0 +1,39 @@
+# Project 5: MyTunes GUI
+
+* Author: Tuan nguyen
+* Class: CS121 Section 2
+* Semester: Spring 2017
+
+## Overview
+
+This java application implements a basic iTunes ™ like application with a heat map
+visualization that shows you which songs you play the most.
+
+## Compiling and Using
+
+To compile, execute the following command in the main project directory:
+```
+$ javac MyTunesGUI.java
+```
+
+Run the compiled class with the command:
+```
+$ java MyTunesGUI
+```
+
+## Discussion
+
+This project was challenging. But I like it. It made me think and dicover many things.
+I had to come to the tutor lab quite often to do this project. However, since this project
+was hard, everyone wanted help, and there're not a lot of tutors, I didn't get help with most
+of my most puzzling questions. But it turned out, I figured out most of them on my own. And
+it's the best feeling in the world! It made me fall in love with Computer Science all over
+again. It's really tough sometimes, but it's always rewarding.
+
+## Extra Credit
+
+I did the the key bar. And I just want to add, my checking of the playTime for the
+addButton is quite good, even better than the example given program. The given program 
+adds a song with an invalid playTime after the user entering it many times. Also, if the
+removed song was the currently playing song, I remember to stop it before removing. It's
+a little detail but I few many people will not notice it.
